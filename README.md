@@ -23,7 +23,7 @@ https://github.com/nikzad-avasam/pygame_space_war/assets/13311003/ae4a390e-3f03-
 شما میتوانید فایل های ویدیویی این دوره را از لینک های زیر بصورت کاملا رایگان تماشا یا دانلود کنید : 
 <br>
 
- 1. [جلسه ی 1 بازی سازی با پایتون](https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame)
+ 1. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
  2. [جلسه ی 2 بازی سازی با پایتون](#)
  3. [جلسه ی 3 بازی سازی با پایتون](#)
  4. [جلسه ی 4 بازی سازی با پایتون](#)
