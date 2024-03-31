@@ -30,7 +30,7 @@ https://github.com/nikzad-avasam/pygame_space_war/assets/13311003/ae4a390e-3f03-
  5. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
  6. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
  7. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
- 8.<a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
+ 8. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
  9. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
  10. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
  11. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
