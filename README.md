@@ -7,4 +7,7 @@
 
 ## نتیجه ی نهایی گیم ساخته شده در این پروژه:
 
-https://raw.githubusercontent.com/nikzad-avasam/pygame_space_war/main/preview/space_war_python_preview.mp4
+
+
+https://github.com/nikzad-avasam/pygame_space_war/assets/13311003/ae4a390e-3f03-49e0-9ced-4dc051602221
+
