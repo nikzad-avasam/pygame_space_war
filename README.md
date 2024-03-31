@@ -24,17 +24,17 @@ https://github.com/nikzad-avasam/pygame_space_war/assets/13311003/ae4a390e-3f03-
 <br>
 
  1. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
- 2. [جلسه ی 2 بازی سازی با پایتون](#)
- 3. [جلسه ی 3 بازی سازی با پایتون](#)
- 4. [جلسه ی 4 بازی سازی با پایتون](#)
- 5. [جلسه ی 5 بازی سازی با پایتون](#)
- 6. [جلسه ی 6 بازی سازی با پایتون](#)
- 7. [جلسه ی 7 بازی سازی با پایتون](#)
- 8. [جلسه ی 8 بازی سازی با پایتون](#)
- 9. [جلسه ی 9 بازی سازی با پایتون](#)
- 10. [جلسه ی 10 بازی سازی با پایتون](#)
- 11. [جلسه ی 11 بازی سازی با پایتون](#)
- 12. [جلسه ی 12 بازی سازی با پایتون](#) 
- 13. [جلسه ی 13 بازی سازی با پایتون](#)
- 14. [جلسه ی 14 بازی سازی با پایتون](#)
- 15. [جلسه ی 15 بازی سازی با پایتون](#)
+ 2. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
+ 3. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
+ 4. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
+ 5. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
+ 6. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
+ 7. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
+ 8.<a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
+ 9. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
+ 10. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
+ 11. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
+ 12. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a> 
+ 13. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
+ 14. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
+ 15. <a href="https://www.aparat.com/video/video/embed/videohash/u52Rx/vt/frame" target="_blank">جلسه ی 1 بازی سازی با پایتون</a>
