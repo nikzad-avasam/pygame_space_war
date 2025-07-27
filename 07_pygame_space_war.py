@@ -19,14 +19,7 @@ playerX_change = 0
 
 # enemy 
 enemyType = random.randint(1,4)
-if enemyType == 1 :
-    enemyImg = pygame.image.load('enemy1.png')
-elif enemyType == 2 :
-    enemyImg = pygame.image.load('enemy2.png')
-elif enemyType == 3 :
-    enemyImg = pygame.image.load('enemy3.png')
-elif enemyType == 4 :
-    enemyImg = pygame.image.load('enemy4.png')
+enemyImg = pygame.image.load(f'enemy{enemyType}.png')
 
 enemyX = random.randint(100,400)
 enemyY = random.randint(50,150)
